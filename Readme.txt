@@ -3,8 +3,7 @@
 	
 	
 	
-							README TEMA2
-					-PROTOCOALE DE COMUNICATII-
+					README 
 					
 					
 					
